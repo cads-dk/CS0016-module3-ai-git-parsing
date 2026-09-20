@@ -1,6 +1,6 @@
 # AI-Assisted Git Workflow and Python Data Parsing
 
-Student name:
+Student name: Deanna Juliana K. de la Cruz 
 Section:
 
 ## Project purpose
@@ -20,7 +20,36 @@ List the branches and major commits you created. Explain the controlled merge co
 
 ## Parser results
 
-Summarize the verified XML, JSON, and YAML values.
+{
+  "xml": {
+    "default_operation": "merge",
+    "test_option": "test-then-set"
+  },
+  "json": {
+    "site": "FEU-Tech-Lab",
+    "device_count": 3,
+    "enabled_devices": [
+      "R1",
+      "SW1"
+    ],
+    "roles": [
+      "router",
+      "switch",
+      "wireless-ap"
+    ]
+  },
+  "yaml": {
+    "name": "Saturday-Lab",
+    "approved": true,
+    "duration_minutes": 90,
+    "devices": [
+      "R1",
+      "SW1"
+    ],
+    "action": "validate-configuration"
+  }
+}
+
 
 ## AI disclosure
 
