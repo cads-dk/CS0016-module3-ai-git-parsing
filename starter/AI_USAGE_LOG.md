@@ -175,7 +175,7 @@ test_yaml_window (__main__.ParserTests.test_yaml_window) ... ok
 
 ## Controlled merge-conflict line
 
-Validation status: PENDING
+Validation status: AI REVIEWED
 
 ## Final reflection
 
