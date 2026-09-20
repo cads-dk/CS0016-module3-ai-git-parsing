@@ -179,4 +179,4 @@ Validation status: AI REVIEWED and Tests Passed
 
 ## Final reflection
 
-Describe one AI suggestion that you changed or rejected and explain the evidence that guided your decision.
+There was nothing to modify and reject with the AI recommendation. I opted to see and test them myself before the AI mod and they worked as well as I expected. The tests succeeded as well and even with human-reviews, the AI recommended what was needed and necessary so there were no changes to make. 
