@@ -5,7 +5,9 @@ Section: TS31
 AI tool used: ChatGPT/Codex
 
 # Expected Values
-
+Since the python functions are parsing, the values to be expected would be everything in the contents of xml, json, and yaml files.
+For xml; the keys default operation, test option, and its corresponding values. 
+The same goes for the json and yaml file where the keys are printed along with their corresponding values. 
 
 ## Entry 1 - XML parsing
 

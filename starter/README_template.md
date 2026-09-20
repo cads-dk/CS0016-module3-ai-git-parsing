@@ -1,7 +1,7 @@
 # AI-Assisted Git Workflow and Python Data Parsing
 
 Student name: Deanna Juliana K. de la Cruz 
-Section:
+Section: TS31
 
 ## Project purpose
 
