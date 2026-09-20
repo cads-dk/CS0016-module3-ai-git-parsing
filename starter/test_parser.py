@@ -3,7 +3,7 @@
 import unittest
 from pathlib import Path
 
-from parser_template import build_summary, parse_json, parse_xml, parse_yaml
+from parser import build_summary, parse_json, parse_xml, parse_yaml
 
 
 BASE = Path(__file__).resolve().parent
